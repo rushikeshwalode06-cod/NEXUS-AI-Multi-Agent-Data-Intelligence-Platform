@@ -1,4 +1,4 @@
-# ⚡ NEXUS AI — Intelligent Multi-Agent Data Analyst Team
+# 🧠 NEXUS AI — Intelligent Multi-Agent Data Analyst Team
 
 ### 🤖 AI-Powered Data Analytics | CrewAI | Google Gemini | Streamlit
 
@@ -141,6 +141,4 @@ Choose from the following interactive chart types:
 - 🚀 It establishes a foundation for future enhancements such as predictive analytics, database connectivity, and advanced AI-powered decision support.
 
 
-
-- ⭐ If you find this project useful, consider starring the repository and sharing your feedback!
-- 🛠️ **Built with Python, CrewAI, Google Gemini, and Streamlit.** 🚀
+![ml](https://github.com/rushikeshwalode06-cod/NEXUS-AI-Multi-Agent-Data-Intelligence-Platform/blob/main/Nexus.png?raw=true)
