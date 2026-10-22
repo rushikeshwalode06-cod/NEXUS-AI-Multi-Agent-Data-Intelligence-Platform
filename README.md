@@ -105,6 +105,8 @@ Choose from the following interactive chart types:
 - 📝 View the final business intelligence report.
 - 📥 Download the report as a Markdown file.
 
+![ml](https://github.com/rushikeshwalode06-cod/NEXUS-AI-Multi-Agent-Data-Intelligence-Platform/blob/main/graph_Nex.png?raw=true)
+
 ## 🔐 API Configuration and Limitations
 
 - 🔑 A valid Google Gemini API key is required to run the AI analysis.
